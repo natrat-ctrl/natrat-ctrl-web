@@ -1,0 +1,47 @@
+aside {
+background-color:#cfbc9f;
+float: right;
+}
+header {
+background-color: #F5F5DC;
+}
+footer {
+background-color: #DCDCDC;
+}
+nav {
+background-color: #dbcaca;
+}
+.nav {
+  list-style-type: none;
+}
+.nav li {
+  display: inline-block;
+}
+.mySkills {
+height: 400px;
+width: 200px;  
+border: 2px dotted;
+}
+h3 {font-family: "Lucida Console", "Courier New", monospace;
+  padding: 5px;
+}
+h1 {border: 2px solid #FFEBCD;
+font-family: "Lucida Console", "Courier New", monospace;
+background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+padding: 5px;}
+
+a:hover, a:active {
+background-color:#5F9EA0;
+}
+h2 {border-bottom: 2px dotted #FFEBCD;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+p {font-family: "Lucida Console", "Courier New", monospace;}
+#contact {
+background-color: lightblue;
+color: black;
+padding: 40px;
+text-align: center;
+}
+ol{font-family: "Lucida Console", "Courier New", monospace;}
+ul{font-family: "Lucida Console", "Courier New", monospace;}
