@@ -68,4 +68,7 @@ display: inline-block;
 margin: 0 0 2 15px;
 border-radius: 50%;
 }
-
+ul li.case a {
+list-style-type: none;
+display:inline;
+}
