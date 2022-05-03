@@ -1,7 +1,7 @@
 aside {
 background-color:#cfbc9f;
 float: right;
-position:absolute;
+position:fixed;
 }
 header {
 background-color: #F5F5DC;
@@ -20,7 +20,7 @@ background-color: #dbcaca;
 }
 .mySkills {
 background-color:#cfbc9f;
-position: absolute;
+position: fixed;
 top: 20;
 right: 5;
 height: 800px;
@@ -29,10 +29,10 @@ border: 2px dotted #FFEBCD;
 margin: 25px 50px 75px 100px; 
 }
 section {
-position:static;
+position:relative;
 }
 article {
-position: static;
+position:relative;
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 5px;
