@@ -1,7 +1,6 @@
 aside {
 background-color:#cfbc9f;
 float: right;
-position: absolute;
 top: 0;
 right: 0;
 }
@@ -54,7 +53,6 @@ ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
 
 img {
-position: absolute;
 border-radius: 50%;
 float:right;
 }
