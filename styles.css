@@ -32,6 +32,8 @@ background-color: #dbcaca;
 .Skills {
 background-color:#cfbc9f;
 border: 2px dotted;
+float: right;
+position: fixed;
 }
 .mySkills {
 float: right;
