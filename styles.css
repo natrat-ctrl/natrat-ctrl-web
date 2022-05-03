@@ -57,3 +57,27 @@ list-style-type: none;
 img {
 float: right;
 border-radius:50 %}
+body {
+padding: 0;
+margin:0;
+}
+
+header, main, aside {
+padding: 6px;
+margin: 0;
+box-sizing: border-box;
+}
+header {
+dispaly: block;
+}
+main {
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+}
+article {
+width: 80%;
+}
+aside {
+width: 19%;
+}
