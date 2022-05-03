@@ -1,6 +1,7 @@
 aside {
 background-color:#cfbc9f;
 float: right;
+position:fixed;
 }
 header {
 background-color: #F5F5DC;
@@ -18,8 +19,8 @@ background-color: #dbcaca;
   display: inline-block;
 }
 .mySkills {
-background-color:#cfbc9f
-position: absolute;
+background-color:#cfbc9f;
+position: fixed;
 top: 0;
 right: 0;
 height: 800px;
