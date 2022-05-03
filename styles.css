@@ -52,7 +52,6 @@ float:right;
 
 }
 .right {
-position: absolute;
-float:right;
+position: right;
 border-radius: 50%;
 }
