@@ -1,6 +1,9 @@
 aside {
 background-color:#cfbc9f;
 float: right;
+position: absolute;
+top: 0;
+right: 0;
 }
 header {
 background-color: #F5F5DC;
