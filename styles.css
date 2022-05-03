@@ -18,9 +18,14 @@ background-color: #dbcaca;
   display: inline-block;
 }
 .mySkills {
-height: 400px;
-width: 200px;  
+position: absolute;
+top: 0;
+right: 0;
+height: 800px;
+width: 400px;  
 border: 2px dotted;
+}
+
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 5px;
