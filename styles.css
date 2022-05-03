@@ -1,4 +1,5 @@
 aside {
+position: absolute;
 background-color:#cfbc9f;
 float: right;
 }
@@ -26,9 +27,10 @@ background-color: #dbcaca;
   display: inline-block;
 }
 .mySkills {
+positio: absolute;
 float:right;
-height: 400px;
-width: 200px;  
+height: 600px;
+width: 300px;  
 border: 2px dotted;
 background-color:#cfbc9f;
 }
