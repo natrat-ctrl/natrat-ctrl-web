@@ -21,6 +21,10 @@ background-color: #dbcaca;
   display: inline-block;
 }
 .mySkills {
+float: right;
+position: absolute;
+top: 0;
+right: 0;
 height: 400px;
 width: 200px;  
 border: 2px dotted;
