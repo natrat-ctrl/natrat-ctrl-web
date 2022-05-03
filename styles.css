@@ -1,5 +1,5 @@
 aside {
-position: relative;
+display: block;
 background-color:#cfbc9f;
 float: right;
 }
