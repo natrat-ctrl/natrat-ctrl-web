@@ -19,6 +19,12 @@ background-color: #dbcaca;
 .nav li {
   display: inline-block;
 }
+
+.Skills {
+float: right
+background-color:#cfbc9f;
+border: 2px dotted;
+}
 .mySkills {
 float: right;
 position: absolute;
@@ -27,7 +33,6 @@ right: 0;
 height: 400px;
 width: 200px;  
 border: 2px dotted;
-background-color:#cfbc9f
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 5px;
@@ -54,6 +59,5 @@ ul{font-family: "Lucida Console", "Courier New", monospace;}
 
 img {
 border-radius: 50%;
-float:right;
 }
 
