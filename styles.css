@@ -1,5 +1,8 @@
 aside {
 background-color:#cfbc9f;
+width: 40%
+padding-left: 40px
+margin-left: 20px
 float: right;
 }
 header {
@@ -29,7 +32,6 @@ h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
-
 a:hover, a:active {
 background-color:#5F9EA0;
 }
@@ -43,9 +45,14 @@ color: black;
 padding: 40px;
 text-align: center;
 }
-ol{font-family: "Lucida Console", "Courier New", monospace;}
-ul{font-family: "Lucida Console", "Courier New", monospace;}
-img {
-float: right;
-border-radius: 50%;
+ol{font-family: "Lucida Console", "Courier New", monospace;
+list-style-type: none;
 }
+ul{font-family: "Lucida Console", "Courier New", monospace;
+list-style-type: none;
+}
+img {float: right;
+}
+#derp {
+float: right;
+border-radius:50 %}
