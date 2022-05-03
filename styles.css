@@ -1,4 +1,6 @@
 aside {
+position: absolute;
+right:0;
 display: block;
 background-color:#cfbc9f;
 float: right;
@@ -51,14 +53,12 @@ font-family: "Lucida Console", "Courier New", monospace;
 }
 p {font-family: "Lucida Console", "Courier New", monospace;}
 .mySkills {
+position:absolute;
+right:0;
 height: 400px;
 width: 200px;  
 border: 2px dotted;
 background-color:#cfbc9f
-}
-aside {
-background-color:#cfbc9f;
-float: right;
 }
 ol{font-family: "Lucida Console", "Courier New", monospace;
 }
