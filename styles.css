@@ -1,21 +1,11 @@
 aside {
-position: absolute;
-right:0;
-display: block;
 background-color:#cfbc9f;
 float: right;
 }
 header {
 background-color: #F5F5DC;
 }
-footer {background-color: #DCDCDC;
-}
-#contact {
-background-color:#DCDCDC;
-color: black;
-padding: 40px;
-text-align: left;
-}
+footer {
 background-color: #DCDCDC;
 }
 nav {
@@ -28,14 +18,10 @@ background-color: #dbcaca;
   display: inline-block;
 }
 .mySkills {
-position: absolute;
-top: 10px;
-right: 10px;
-float:right;
-height: 600px;
-width: 300px;  
+height: 400px;
+width: 200px;  
 border: 2px dotted;
-background-color:#cfbc9f;
+background-color:#cfbc9f
 }
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 5px;
@@ -44,36 +30,18 @@ h1 {border: 2px solid #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
+
 a:hover, a:active {
 background-color:#5F9EA0;
 }
 h2 {border-bottom: 2px dotted #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
+}
 p {font-family: "Lucida Console", "Courier New", monospace;}
-  
-.mySkills {
-position:absolute;
-right:0;
-height: 400px;
-width: 200px;  
-border: 2px dotted;
-background-color:#cfbc9f
+#contact {
+color: black;
+padding: 40px;
+text-align: left;
 }
-ol{font-family: "Lucida Console", "Courier New", monospace;
-}
-body {
-margin: 60px auto;
-width: 70%;
-font-family: "Lucida Console", "Courier New", monospace;}
-background-color:#F4f4f4;
-}
-ul{font-family: "Lucida Console", "Courier New", monospace;
-list-style-type: none;
-}
-img {
-float: right;
-border-radius:50 %}
-
-article {
-position: relative;
-}
+ol{font-family: "Lucida Console", "Courier New", monospace;}
+ul{font-family: "Lucida Console", "Courier New", monospace;}
