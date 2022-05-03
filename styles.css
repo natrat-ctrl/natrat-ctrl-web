@@ -1,5 +1,4 @@
 aside {
-background-color:#cfbc9f;
 float: right;
 top: 0;
 right: 0;
@@ -21,7 +20,6 @@ background-color: #dbcaca;
 }
 
 .Skills {
-float: right
 background-color:#cfbc9f;
 border: 2px dotted;
 }
@@ -57,7 +55,8 @@ text-align: left;
 ol{font-family: "Lucida Console", "Courier New", monospace;}
 ul{font-family: "Lucida Console", "Courier New", monospace;}
 
-img {
+#hp {float: right;    
+margin: 0 0 0 15px;
 border-radius: 50%;
 }
 
