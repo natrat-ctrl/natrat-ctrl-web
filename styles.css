@@ -1,7 +1,7 @@
 aside {
 float: right;
-top: 0;
-right: 0;
+top: 20;
+right: 5;
 }
 header {
 background-color: #F5F5DC;
@@ -26,8 +26,8 @@ border: 2px dotted;
 .mySkills {
 float: right;
 position: absolute;
-top: 0;
-right: 0;
+top: 20;
+right: 5;
 height: 400px;
 width: 300px;  
 }
