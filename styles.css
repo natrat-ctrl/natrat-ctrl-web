@@ -1,7 +1,6 @@
 aside {
 background-color:#cfbc9f;
 float: right;
-position:fixed;
 }
 header {
 background-color: #F5F5DC;
@@ -18,22 +17,15 @@ background-color: #dbcaca;
 .nav li {
   display: inline-block;
 }
+
 .mySkills {
+float:right;
+height: 400px;
+width: 200px;  
+border: 2px dotted;
 background-color:#cfbc9f;
-position: fixed;
-top: 20;
-right: 5;
-height: 600px;
-width: 100px;  
-border: 2px dotted #FFEBCD;
-margin: 25px 50px 75px 100px; 
 }
-section {
-position:relative;
-}
-article {
-position:relative;
-}
+
 h3 {font-family: "Lucida Console", "Courier New", monospace;
   padding: 5px;
 }
