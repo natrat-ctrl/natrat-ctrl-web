@@ -16,7 +16,6 @@ color: black;
 padding: 40px;
 text-align: left;
 }
-
 background-color: #DCDCDC;
 }
 nav {
@@ -51,6 +50,7 @@ background-color:#5F9EA0;
 h2 {border-bottom: 2px dotted #FFEBCD;
 font-family: "Lucida Console", "Courier New", monospace;
 p {font-family: "Lucida Console", "Courier New", monospace;}
+  
 .mySkills {
 position:absolute;
 right:0;
@@ -67,46 +67,8 @@ width: 70%;
 font-family: "Lucida Console", "Courier New", monospace;}
 background-color:#F4f4f4;
 }
-
-article {
-float: left;
-padding-bottom: 10px;
-width: 80%;
-clear: both;
-}
-section::after {
-display: table;
-clear: both;
-}
-
-aside {
-width: 20%;
-float: right;
-background-color:#E8E2DF;
-margin:10px;
-padding-left: 20px;
-padding-top: 10px;
-adding-bottom: 10px;
-clear: both;
-}
-
-.mySkills {
-position: absolute;
-top: 800px;
-right: 400px;
-width: 330px;
-}
-
-.myInterests {
-position: absolute;
-top: 1200px;
-right: 400px;
-width: 330px;
-}
-
 ul{font-family: "Lucida Console", "Courier New", monospace;
 list-style-type: none;
-  
 }
 img {
 float: right;
