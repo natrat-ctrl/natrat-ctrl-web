@@ -1,13 +1,17 @@
 aside {
 float: right;
-top: 20;
-right: 5;
+top: 0;
+right: 0;
 }
 header {
 background-color: #F5F5DC;
 }
 footer {
 background-color: #DCDCDC;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 2.5rem;
 }
 nav {
 background-color: #dbcaca;
@@ -26,8 +30,8 @@ border: 2px dotted;
 .mySkills {
 float: right;
 position: absolute;
-top: 20;
-right: 5;
+top: 0;
+right: 0;
 height: 400px;
 width: 300px;  
 }
