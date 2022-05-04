@@ -7,7 +7,7 @@ right: 0;
 header {
 background-color: #F5F5DC;
 }
-footer {
+.footer {
 position:absolute;
 bottom:0;
 width:100%;
