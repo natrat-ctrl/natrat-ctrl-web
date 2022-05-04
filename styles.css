@@ -70,4 +70,8 @@ display: inline-block;
 margin: 0 0 2 15px;
 border-radius: 50%;
 }
-
+.footer-nav {                            
+list-style: none;
+text-align: left;
+display: inline-block;
+}
